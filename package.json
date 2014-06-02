@@ -1,6 +1,6 @@
 {
   "name": "simple-nrepl",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple nREPL",
   "main": "index.js",
   "bin": {
