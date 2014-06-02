@@ -1,0 +1,11 @@
+{
+  "name": "simple-nrepl",
+  "version": "0.0.0",
+  "description": "Simple nREPL",
+  "main": "index.js",
+  "bin": {
+    "nrepl": "./bin/nrepl.js"
+  },
+  "author": "Arseny Zarechnev",
+  "license": "MIT"
+}
